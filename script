@@ -1,2 +1,2 @@
 getgenv().Key = "Insert your key in here";
-loadstring(game:HttpGet("https://raw.githubusercontent.com/animed10/rblxscripts/main/neverblox.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/animed10/neverblox"))()
